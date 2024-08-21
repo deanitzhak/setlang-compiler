@@ -27,7 +27,7 @@ The SetLang Compiler is designed to parse and interpret a custom language with s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/setlang-compiler.git
+   git clone https://github.com/deanitzhak/setlang-compiler.git
    cd setlang-compiler
 
 2. Install dependencies:
