@@ -1,0 +1,4 @@
+bison>=3.8.2
+flex
+gcc
+make
